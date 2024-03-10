@@ -1,0 +1,516 @@
+[33mcommit 3c340b91403aea0545d5e4569861aa67aa38c9e4[m[33m ([m[1;36mHEAD -> [m[1;32mLocationService[m[33m, [m[1;31morigin/LocationService[m[33m)[m
+Author: brahimchouih <brahim26chouih@gmail.com>
+Date:   Wed Feb 7 10:06:42 2024 +0100
+
+    User can't open app without location permission
+
+[33mcommit 980870ff9c6a91286dcdc042434afed8e16c30ec[m
+Author: brahimchouih <brahim26chouih@gmail.com>
+Date:   Wed Feb 7 09:01:00 2024 +0100
+
+    dart fix --apply
+
+[33mcommit 8e2fb7a58a3b3448d92234775be544767d3f8dc1[m
+Author: Abdelmonem-wagih <abdowagih38@gmail.com>
+Date:   Sun Feb 4 04:47:38 2024 +0200
+
+    fix size
+
+[33mcommit caa3a3962fb7cf2883353e03d2497655ea582908[m
+Author: brahimchouih <brahim26chouih@gmail.com>
+Date:   Sat Feb 3 14:21:30 2024 +0100
+
+    try fix an error in askar screen
+
+[33mcommit 8d1b3eb51104255e9011638a21dd21d2e8378e59[m
+Author: Abdelmonem-wagih <abdowagih38@gmail.com>
+Date:   Sat Feb 3 02:54:23 2024 +0200
+
+    add fonts
+
+[33mcommit 82e7ff18e39aa618d1b9c8633cff1d204809ffbf[m
+Author: Abdelmonem-wagih <abdowagih38@gmail.com>
+Date:   Mon Jan 29 14:24:22 2024 +0200
+
+    Gaza notification
+
+[33mcommit da0d7fa24d58db7aa01503d75c4c1f81938c84c1[m
+Author: Abdelmonem-wagih <abdowagih38@gmail.com>
+Date:   Sun Jan 28 05:39:11 2024 +0200
+
+    Gaza notifications
+
+[33mcommit 606dd70099595019c27859f67f18f19068a7c840[m
+Author: Abdelmonem-wagih <abdowagih38@gmail.com>
+Date:   Sun Jan 28 05:37:41 2024 +0200
+
+    Gaza notification
+
+[33mcommit 31c7a2d572341181c44ad13e1b2bec847a9a595f[m
+Author: Abdelmonem-wagih <abdowagih38@gmail.com>
+Date:   Sat Jan 27 03:07:37 2024 +0200
+
+    rebuild Notification
+
+[33mcommit 2c315eecc4ebd475c7790bccf36df702e99b139e[m
+Merge: 979d4b8 95a3351
+Author: Abdelmonem-wagih <abdowagih38@gmail.com>
+Date:   Sat Jan 27 03:01:34 2024 +0200
+
+    merge setting with notification
+
+[33mcommit 979d4b81d7aede1bc596426f9d847143d59a5f7d[m
+Author: Abdelmonem-wagih <abdowagih38@gmail.com>
+Date:   Sat Jan 27 02:30:30 2024 +0200
+
+    merge setting with notification
+
+[33mcommit 95a33516d9cdcb99eebfff69eabd4e866f8a4935[m[33m ([m[1;32mSetting[m[33m)[m
+Author: Abdelmonem-wagih <abdowagih38@gmail.com>
+Date:   Sat Jan 27 00:02:48 2024 +0200
+
+    merge setting to main
+
+[33mcommit 29dc6d119c1c8f3173651c0d8fd2a4ffcffc05d6[m
+Author: Abdelmonem-wagih <abdowagih38@gmail.com>
+Date:   Fri Jan 26 23:57:11 2024 +0200
+
+    merge setting
+
+[33mcommit 1c91fe0d3ae11dc19110597206349999c59fd528[m
+Author: brahimchouih <brahim26chouih@gmail.com>
+Date:   Fri Jan 26 21:17:39 2024 +0100
+
+    test
+
+[33mcommit 72753bdadff7bbc7da44165efe9b1ff0fe6654fb[m
+Author: brahimchouih <brahim26chouih@gmail.com>
+Date:   Fri Jan 26 21:05:53 2024 +0100
+
+    alarm example
+
+[33mcommit 06d132c2e12de0774e19a9604c19b7a4a401d661[m
+Author: brahimchouih <brahim26chouih@gmail.com>
+Date:   Fri Jan 26 20:28:20 2024 +0100
+
+    fix an error
+
+[33mcommit 3683ea76f8b8f77bd3a8267c5a162a191951375d[m
+Author: brahimchouih <brahim26chouih@gmail.com>
+Date:   Fri Jan 26 17:14:05 2024 +0100
+
+    print to debugPrint
+
+[33mcommit 2d05b27f924add34e5a74b98412871cab3138e46[m
+Merge: f5a6616 fcf2f8c
+Author: Brahim Chouih <68695078+BrahimChouih@users.noreply.github.com>
+Date:   Thu Jan 25 12:42:15 2024 +0100
+
+    Merge pull request #1 from mohseenjamall/QuranMaktoub-new-data
+    
+    Quran maktoub new data
+
+[33mcommit 7c9531f66a7ec8bd60a17ff2097fa8a6ee83d8d6[m[33m ([m[1;31morigin/Setting[m[33m)[m
+Author: Abdelmonem-wagih <abdowagih38@gmail.com>
+Date:   Thu Jan 25 07:16:48 2024 +0200
+
+    finish Setting
+
+[33mcommit fcf2f8caccf718c3af40ed563132527569ba5dcf[m[33m ([m[1;31morigin/QuranMaktoub-new-data[m[33m)[m
+Author: brahimchouih <brahim26chouih@gmail.com>
+Date:   Wed Jan 24 14:48:01 2024 +0100
+
+    quran maktoub with uthmanicHafs font
+
+[33mcommit 38e24fcbd508bfb95fa346bc8d84172efbda48dc[m
+Author: brahimchouih <brahim26chouih@gmail.com>
+Date:   Tue Jan 23 20:33:00 2024 +0100
+
+    new database
+
+[33mcommit f5a661679a7e711b6fb5e8fda3e52fc03bad5077[m
+Author: Abdelmonem-wagih <abdowagih38@gmail.com>
+Date:   Tue Jan 23 03:41:18 2024 +0200
+
+    updata notification2
+
+[33mcommit 07fb7d573a32c625a31a9ec19f794813d7a75427[m
+Author: Abdelmonem-wagih <abdowagih38@gmail.com>
+Date:   Sun Jan 21 07:31:42 2024 +0200
+
+    fix error rewaya
+
+[33mcommit 03b4b7d82be62e6cfaec33d371e298ecbe8ea2dd[m
+Merge: d9fe815 009d154
+Author: Abdelmonem-wagih <abdowagih38@gmail.com>
+Date:   Sun Jan 21 07:21:10 2024 +0200
+
+    control prayer time setting
+
+[33mcommit d9fe8154d91aa7d1c0ec0fb9bb8bc40170d8302d[m
+Author: Abdelmonem-wagih <abdowagih38@gmail.com>
+Date:   Sun Jan 21 07:16:25 2024 +0200
+
+    control prayer time (Setting)
+
+[33mcommit 009d154bffad148ec419e12c4617f49350e02fb4[m
+Author: brahimchouih <brahim26chouih@gmail.com>
+Date:   Sat Jan 20 22:01:35 2024 +0100
+
+    Filter by rewaya done
+
+[33mcommit 1c5843e7438fb1d5ad2fba33ff6c976963ac653a[m
+Author: brahimchouih <brahim26chouih@gmail.com>
+Date:   Sat Jan 20 21:16:41 2024 +0100
+
+    get rewayat
+
+[33mcommit e66e7bcea04ff8a67d6e1ceb0c1267e536e48466[m
+Merge: eb7d1be 284ff08
+Author: Abdelmonem-wagih <abdowagih38@gmail.com>
+Date:   Sat Jan 20 06:17:26 2024 +0200
+
+    updata setting
+
+[33mcommit eb7d1be8227c8e1f54123525edfa374bdd0ee028[m
+Author: Abdelmonem-wagih <abdowagih38@gmail.com>
+Date:   Sat Jan 20 06:10:58 2024 +0200
+
+    updata setting
+
+[33mcommit 284ff08787915fa6580b992c406d20bf10c4ab23[m
+Author: brahimchouih <brahim26chouih@gmail.com>
+Date:   Fri Jan 19 18:38:44 2024 +0100
+
+    fix filter by rewaya
+
+[33mcommit d5028051bff9e821020884c861e582a5ebf9b149[m
+Author: brahimchouih <brahim26chouih@gmail.com>
+Date:   Thu Jan 18 21:31:34 2024 +0100
+
+    fix location error
+
+[33mcommit fd1b90b95f954852196ed7351e0c5fa717c0f085[m
+Author: brahimchouih <brahim26chouih@gmail.com>
+Date:   Thu Jan 18 18:40:24 2024 +0100
+
+    dart fix --apply
+
+[33mcommit 8f76654d32735f077e23e1a69586b8110b38227e[m
+Author: brahimchouih <brahim26chouih@gmail.com>
+Date:   Thu Jan 18 18:37:45 2024 +0100
+
+    dependencies
+
+[33mcommit 79c637ba00507cacf9039dc5b260da5e817f26ee[m
+Author: Abdelmonem-wagih <abdowagih38@gmail.com>
+Date:   Thu Jan 18 06:26:18 2024 +0200
+
+    notification
+
+[33mcommit 5a77f88919095cddd47084868084e8ddf6d80ac4[m
+Author: Abdelmonem-wagih <abdowagih38@gmail.com>
+Date:   Wed Jan 10 06:31:52 2024 +0200
+
+    Contact Us
+
+[33mcommit ce983b03193e0ba11052e2f6bcf7bd655496666b[m
+Author: Abdelmonem-wagih <abdowagih38@gmail.com>
+Date:   Sun Jan 7 05:31:44 2024 +0200
+
+    Splash Screen
+
+[33mcommit de2a3d10a80531fa71548724e7c122b733f67b8f[m
+Author: Abdelmonem-wagih <abdowagih38@gmail.com>
+Date:   Sat Jan 6 05:37:35 2024 +0200
+
+    Counter
+
+[33mcommit b42e9f9126ebac5858154d0b0cc445c4937d5097[m
+Author: Abdelmonem-wagih <abdowagih38@gmail.com>
+Date:   Sat Jan 6 05:37:18 2024 +0200
+
+    Counter
+
+[33mcommit a2ae8cc3248467ed9a802cbd056ca09972378f76[m
+Author: Abdelmonem-wagih <abdowagih38@gmail.com>
+Date:   Fri Jan 5 02:22:50 2024 +0200
+
+    aya of day
+
+[33mcommit 7c03a967490b53491e721d900300ab831a9baeda[m
+Author: Abdelmonem-wagih <abdowagih38@gmail.com>
+Date:   Thu Dec 28 01:49:06 2023 +0200
+
+    setting
+
+[33mcommit 98fa69a96f8a48887e462f0b9e946ac2d287b919[m[33m ([m[1;31morigin/First-Branch[m[33m)[m
+Author: Blaxk Raven <74454882+mohseenjamall@users.noreply.github.com>
+Date:   Mon Nov 27 11:11:51 2023 +0200
+
+    README.md
+
+[33mcommit 3f7947da80d0afda848ce13abc808e6399b334ae[m
+Author: Blaxk Raven <74454882+mohseenjamall@users.noreply.github.com>
+Date:   Tue Sep 26 13:47:08 2023 +0300
+
+    تسابيح.json
+    
+    تم التعديل واضافة عنوان للذي تحتاج الي عنوان
+
+[33mcommit c2651774c1a4b198561645be8426ca923d183a29[m
+Merge: 428f5ce cf3acb9
+Author: Abdelmonem-wagih <abdowagih38@gmail.com>
+Date:   Sat Sep 16 03:26:35 2023 +0300
+
+    Merge branch 'main' of https://github.com/mohseenjamall/Wrd-App-
+
+[33mcommit 428f5ce76eba01859b6d3b84c4aee629540515ff[m
+Author: Abdelmonem-wagih <abdowagih38@gmail.com>
+Date:   Sat Sep 16 03:25:52 2023 +0300
+
+    localizations
+
+[33mcommit cf3acb990f1a29d0be04a996f7b312b8d0580b51[m
+Author: Ahmed Mohamed <73662563+AhmedMohamed800@users.noreply.github.com>
+Date:   Fri Sep 15 22:29:57 2023 +0300
+
+    Update README.md
+
+[33mcommit 07d06b4e725b9067ebdaabc8c604c3ba4d21c7aa[m
+Merge: 2e68a16 b342169
+Author: Ahmed <ahmedmoh0107@gmail.com>
+Date:   Fri Sep 15 21:32:45 2023 +0200
+
+    Merge branch 'main' of https://github.com/mohseenjamall/Wrd-App
+
+[33mcommit 2e68a16e315ab9df05195e5712d2ca85fd202c25[m
+Author: Ahmed <ahmedmoh0107@gmail.com>
+Date:   Fri Sep 15 21:32:30 2023 +0200
+
+    Add cleaning function to remove همزات and تشكيل
+
+[33mcommit c1a4898626e8399af89547be0f5947e8af3b4d71[m
+Author: Ahmed <ahmedmoh0107@gmail.com>
+Date:   Fri Sep 15 21:16:29 2023 +0200
+
+    Write Tafsir RESTful API Documentation
+
+[33mcommit b3421696ae3f8a0a688f745913512deab57a78f0[m
+Author: Ahmed Mohamed <73662563+AhmedMohamed800@users.noreply.github.com>
+Date:   Fri Sep 15 21:24:48 2023 +0300
+
+    Update README.md
+
+[33mcommit bdb7cf86c856444f835c1ed6f0985f84ec199438[m
+Author: Ahmed Mohamed <73662563+AhmedMohamed800@users.noreply.github.com>
+Date:   Fri Sep 15 21:19:54 2023 +0300
+
+    Update README.md
+
+[33mcommit 6d74082ed43f68dfd8452dc27be706e54994c4a6[m
+Author: Ahmed <ahmedmoh0107@gmail.com>
+Date:   Fri Sep 15 19:36:37 2023 +0200
+
+    Make the necessary boilerplate for Wrd-Chatbot-API
+
+[33mcommit 0996dcc3b723af8681ed6673912194e77ee0a4d7[m
+Author: Abdelmonem-wagih <abdowagih38@gmail.com>
+Date:   Fri Aug 25 23:22:03 2023 -0700
+
+    quran
+
+[33mcommit 89b084f831ffbc6e664e63303404b44411cac4db[m
+Merge: d780999 9c75798
+Author: Abdelmonem-wagih <abdowagih38@gmail.com>
+Date:   Wed Aug 2 19:43:21 2023 -0700
+
+    Merge branch 'main' of https://github.com/mohseenjamall/Wrd-App-
+
+[33mcommit d78099942ebf0055100e5ba8af5ee0bdebf630f9[m
+Author: Abdelmonem-wagih <abdowagih38@gmail.com>
+Date:   Wed Aug 2 19:43:03 2023 -0700
+
+    islamic_corner
+
+[33mcommit 9c75798f91fd558e84d1be8ab12a36c644b995ac[m
+Author: Blaxk Raven <74454882+mohseenjamall@users.noreply.github.com>
+Date:   Tue Aug 1 12:13:10 2023 +0300
+
+    الاذكار.json
+
+[33mcommit a4cd129e456243973fdfd9c2136114c43595e523[m
+Author: Blaxk Raven <74454882+mohseenjamall@users.noreply.github.com>
+Date:   Tue Jul 4 14:30:25 2023 +0300
+
+    Add files via upload
+
+[33mcommit 9714f5c3e505389aa7d7ef5f92bb5f0f716473f9[m
+Author: Blaxk Raven <74454882+mohseenjamall@users.noreply.github.com>
+Date:   Tue Jul 4 06:21:16 2023 +0300
+
+    ما يقول العبد.json
+
+[33mcommit a68708b62bce6bd9d622deaee1fe6a27b7613be8[m
+Author: Blaxk Raven <74454882+mohseenjamall@users.noreply.github.com>
+Date:   Tue Jul 4 06:20:52 2023 +0300
+
+    تسبيحات العيد.json
+
+[33mcommit 1f3f9b040343a08af5a2745bcf12ca5adc68b074[m
+Author: Blaxk Raven <74454882+mohseenjamall@users.noreply.github.com>
+Date:   Tue Jul 4 06:20:27 2023 +0300
+
+    تسابيح.json
+
+[33mcommit c9dfd6b8bbdc92daa75868f3e6b0a682038085ed[m
+Author: Blaxk Raven <74454882+mohseenjamall@users.noreply.github.com>
+Date:   Tue Jul 4 06:20:00 2023 +0300
+
+    الذكر.json
+
+[33mcommit 67d8d1b937aee614bd29efcc5247ba7d84cdec98[m
+Author: Blaxk Raven <74454882+mohseenjamall@users.noreply.github.com>
+Date:   Tue Jul 4 06:19:35 2023 +0300
+
+    الحج.json
+
+[33mcommit 86cb4a3c93665437170f482d814d77aa58f40c07[m
+Author: Blaxk Raven <74454882+mohseenjamall@users.noreply.github.com>
+Date:   Tue Jul 4 06:19:12 2023 +0300
+
+    التشهد&الصلاة علي النبي.json
+
+[33mcommit 452d39603a268040a315f288f926629914be3e1d[m
+Author: Blaxk Raven <74454882+mohseenjamall@users.noreply.github.com>
+Date:   Tue Jul 4 06:18:39 2023 +0300
+
+    الاستغفار والتوبة.json
+
+[33mcommit af8cb8faff84a17dcc4563cc9a36cdcaf3444db8[m
+Author: Blaxk Raven <74454882+mohseenjamall@users.noreply.github.com>
+Date:   Tue Jul 4 06:17:57 2023 +0300
+
+    Add files via upload
+
+[33mcommit 487c936fe0e99c93953f1a6a626c198d42114fe4[m
+Author: Blaxk Raven <74454882+mohseenjamall@users.noreply.github.com>
+Date:   Tue Jul 4 06:17:30 2023 +0300
+
+    الاذكار.json
+
+[33mcommit 2aca0090948876ec563e57d3671bba3fd3a43dec[m
+Author: Blaxk Raven <74454882+mohseenjamall@users.noreply.github.com>
+Date:   Tue Jul 4 06:16:45 2023 +0300
+
+    Delete الادعية.json
+
+[33mcommit efb33f7e78166df33263a78fbce340193260e7c2[m
+Author: Blaxk Raven <74454882+mohseenjamall@users.noreply.github.com>
+Date:   Sun Jun 25 18:08:54 2023 +0300
+
+    Add files via upload
+
+[33mcommit d4503e9652e4f01d4f7349f0ad4702c148877621[m
+Author: Blaxk Raven <74454882+mohseenjamall@users.noreply.github.com>
+Date:   Sun Jun 25 05:14:00 2023 +0300
+
+    Add files via upload
+
+[33mcommit d5247801ceca9d18cf85e119e9f27466b8098e41[m
+Author: Blaxk Raven <74454882+mohseenjamall@users.noreply.github.com>
+Date:   Sun Jun 25 05:11:48 2023 +0300
+
+    Delete الاذكار و الادعية.zip
+
+[33mcommit febf03037b0b029ab8dab4e08afa0bbcb36ff86c[m
+Author: Blaxk Raven <74454882+mohseenjamall@users.noreply.github.com>
+Date:   Sun Jun 25 05:08:43 2023 +0300
+
+    Add files via upload
+
+[33mcommit d5fc30db0aa293f7715b3610c08849a830a59390[m
+Author: Blaxk Raven <74454882+mohseenjamall@users.noreply.github.com>
+Date:   Sat Jun 24 05:23:22 2023 +0300
+
+    Add files via upload
+
+[33mcommit 0b0f59497053d1804010dbfbdb8cd38cd945074a[m
+Author: Blaxk Raven <74454882+mohseenjamall@users.noreply.github.com>
+Date:   Sat Jun 24 05:22:58 2023 +0300
+
+    Delete الاذكار و الادعية.zip
+
+[33mcommit 5e22788e86f7ba23827412df78854447f3fe367e[m
+Merge: 979f09d f63491d
+Author: Abdelmonem-wagih <abdowagih38@gmail.com>
+Date:   Fri Jun 23 16:22:21 2023 -0700
+
+    Merge branch 'main' of https://github.com/mohseenjamall/Wrd-App-
+
+[33mcommit 979f09df724c4de54c7a5737c630bb812bdf2bb0[m
+Author: Abdelmonem-wagih <abdowagih38@gmail.com>
+Date:   Fri Jun 23 16:21:56 2023 -0700
+
+    Mos7af-Elmaktob & audio2
+
+[33mcommit f63491df55c5148f62409d3bb7dff4ffc3f3bcfa[m
+Author: Blaxk Raven <74454882+mohseenjamall@users.noreply.github.com>
+Date:   Fri Jun 23 16:26:45 2023 +0300
+
+    Add files via upload
+
+[33mcommit fae677dd8a18c9fc219bcb4c7d34147387f51549[m
+Author: Abdelmonem-wagih <abdowagih38@gmail.com>
+Date:   Tue May 30 19:23:05 2023 -0700
+
+    updat_home_screen
+
+[33mcommit 2eed1ff63858d4d5a24e738503ba1ea1c23bc8e9[m
+Merge: b643bff a89e7af
+Author: Abdo wagih <abdowagih38@gmail.com>
+Date:   Tue Apr 18 00:40:24 2023 +0200
+
+    Merge branch 'main' of https://github.com/MohsenJamal/Wrd-App-
+
+[33mcommit b643bff7c8452dc952952761e85dbe58c2ff49dd[m
+Author: Abdo wagih <abdowagih38@gmail.com>
+Date:   Tue Apr 18 00:39:58 2023 +0200
+
+    updata prayer times screen
+
+[33mcommit a89e7af5b40f130876920eecff9a4f99f1d93cca[m
+Author: Blaxk Raven <74454882+MohsenJamal@users.noreply.github.com>
+Date:   Tue Apr 18 00:25:55 2023 +0200
+
+    Add files via upload
+
+[33mcommit 8d8b26ca8b216bf758332796d7f3099c5758ad7c[m
+Author: Abdo wagih <abdowagih38@gmail.com>
+Date:   Mon Apr 17 05:28:29 2023 +0200
+
+    create prayer times screen
+
+[33mcommit 58414d6a0796ebaa7182c7576e3d870aba6fd389[m
+Author: Abdo wagih <abdowagih38@gmail.com>
+Date:   Sun Apr 16 13:58:23 2023 +0200
+
+    init
+
+[33mcommit ddecafba9721786d7d696b5f6121257b0c1456c2[m
+Author: Blaxk Raven <74454882+MohsenJamal@users.noreply.github.com>
+Date:   Sun Apr 16 04:42:18 2023 +0200
+
+    Update README.md
+
+[33mcommit 7c0d5493c97a4ca090154de48c2caf628bdb530c[m
+Author: Blaxk Raven <74454882+MohsenJamal@users.noreply.github.com>
+Date:   Fri Feb 10 17:09:25 2023 +0200
+
+    Update README.md
+
+[33mcommit dca97a24c65c5a558cb2b0475fb7bc44f5accd92[m
+Author: Blaxk Raven <74454882+MohsenJamal@users.noreply.github.com>
+Date:   Fri Feb 10 17:09:10 2023 +0200
+
+    Initial commit
